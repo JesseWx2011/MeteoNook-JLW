@@ -1,5 +1,9 @@
 # MeteoNook Alpha
 
+## -- DISCLAIMER --
+
+This version of MeteoNook is NOT the official version. Please refer to <a href="https://github.com/Treeki/MeteoNook/">this link</a> for the official version by Treeki.</a>
+
 A weather prediction tool for Animal Crossing: New Horizons, created by [@_Ninji](https://twitter.com/_Ninji). This is a full rewrite of the original proof-of-concept tool, now using Vue.js with BootstrapVue and with a core written in Rust.
 
 The official release is available at: https://wuffs.org/acnh/weatherTest/
